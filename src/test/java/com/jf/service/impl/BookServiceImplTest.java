@@ -3,7 +3,6 @@ package com.jf.service.impl;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.jf.domain.Book;
-import com.jf.service.BookService;
 import com.jf.service.IBookService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
